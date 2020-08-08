@@ -1,0 +1,53 @@
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeSentinela.vbprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.Frm_Configuração.resources
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.Frm_InicioOculto.resources
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.Frm_Oculto.resources
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.Resources.resources
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeSentinela.vbproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeSentinela.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.exe
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.xml
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.pdb
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\AddeServidor.exe.config
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\AddeServidor.exe
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\AddeServidor.pdb
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\AddeServidor.xml
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\MetroFramework.Design.dll
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\MetroFramework.dll
+C:\Users\Acer\Desktop\OneDrive\Respositorio\Adde\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\AddeServidor.exe.config
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\AddeServidor.exe
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\AddeServidor.pdb
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\AddeServidor.xml
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\MetroFramework.Design.dll
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\MetroFramework.dll
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeSentinela.vbprojAssemblyReference.cache
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.Frm_Configuração.resources
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.Frm_InicioOculto.resources
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.Frm_Oculto.resources
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.Resources.resources
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeSentinela.vbproj.GenerateResource.cache
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeSentinela.vbproj.CoreCompileInputs.cache
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeSentinela.vbproj.CopyComplete
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.exe
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.xml
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\AddeSentinela\AddeServidor\obj\Debug\AddeServidor.pdb
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\obj\Debug\AddeSentinela.vbprojAssemblyReference.cache
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\obj\Debug\AddeServidor.Frm_Settings.resources
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\obj\Debug\AddeServidor.Frm_HiddenStart.resources
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\obj\Debug\AddeServidor.Frm_Oculto.resources
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\obj\Debug\AddeSentinela.vbproj.GenerateResource.cache
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\obj\Debug\AddeServidor.exe
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\obj\Debug\AddeServidor.xml
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\obj\Debug\AddeServidor.pdb
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\bin\Debug\AddeServidor.exe.config
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\bin\Debug\AddeServidor.exe
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\bin\Debug\AddeServidor.pdb
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\bin\Debug\AddeServidor.xml
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\bin\Debug\MetroFramework.Design.dll
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\bin\Debug\MetroFramework.dll
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\obj\Debug\AddeServidor.Resources.resources
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\obj\Debug\AddeSentinela.vbproj.CoreCompileInputs.cache
+C:\Users\i7\Desktop\OneDrive\Respositorio\AddeDeM\AddeSentinela\(en-us ) --  AddeSentinel\AddeServidor\obj\Debug\AddeSentinela.vbproj.CopyComplete
