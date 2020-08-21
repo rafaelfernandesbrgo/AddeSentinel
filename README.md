@@ -1,9 +1,7 @@
-# AddeSentinel
+# Application-DotNet-Sentinel
   .NET project that monitors access to a computer, sending an email with access information.
   
 ***
-
-**AddeSentinel**
 
 This program was developed in .net to send an email with the time and the name of the access to a specific computer at the moment it is turned on.
 
@@ -18,7 +16,7 @@ Was used:
   
 ***  
 
-**AddeSentinela (pt-br)**
+(pt-br)
 
 Esse programa foi desenvolvido em .net para enviar um e-mail com o horário e o nome do acesso a determinado computador no momento que o mesmo é ligado.
 
